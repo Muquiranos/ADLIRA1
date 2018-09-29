@@ -1,0 +1,33 @@
+body{
+        /* background-image: url("https://i2.cdn.turner.com/money/dam/assets/150318181552-get-started-investing-780x439.jpg"); */
+        background-repeat: no-repeat;
+        background-size: 100%;
+        margin: 0%;
+        padding: 0%;
+}
+
+.opcoes{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+}
+
+
+
+
+    
+header{
+    background-color: rgb(214, 214, 188);
+
+}
+
+
+.principal{
+    display: flex;
+
+}
+
+footer{
+    height: 100%;
+    background-color: rgb(214, 214, 188);
+}
